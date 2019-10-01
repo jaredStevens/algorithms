@@ -30,6 +30,8 @@ function fib(n) {
 
 fib = memoize(fib)
 
+console.log(fib)
+
 module.exports = fib;
 
 // Iterative Solution

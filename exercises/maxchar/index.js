@@ -33,5 +33,5 @@ function maxChar(str) {
   }
   return maxChar
 }
-maxChar('hEEEllllo') //?
+maxChar( 'hEEEllllo')
 module.exports = maxChar;
